@@ -1,12 +1,11 @@
 # Hi, I'm Helder 👋
-### Engineering Manager
+### Engagement Manager
 
-[<img src="./img/twitter.png" alt="twitter" width="30"/>](https://twitter.com/HelderDOliveira)
 [<img src="./img/linkedin.png" alt="linkedin" width="30"/>](https://linkedin.com/in/hemarque)
 
 ![](./img/blue-line.png)
 
-I'm a [Computer Engineering graduate](https://ingenieria.ucab.edu.ve/informatica/) with more than 20 years of experience in product development, speaker and co-organizer of [**Meetup Software Crafters Madrid**](http://www.meetup.com/es/madswcraft/). 
+I'm a [Computer Engineering graduate](https://ingenieria.ucab.edu.ve/informatica/) with more than 20 years of experience in product development.
 
 My specialties are Digital Transformation, [Agile](https://agilemanifesto.org/) and Technical Coaching.
 
